@@ -7,3 +7,5 @@ Coding a JavaScript stopwatch is an easy little project you can build in one day
 1 .Start
 2.Stop
 3.Reset
+
+
